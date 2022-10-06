@@ -1,4 +1,4 @@
-# Interfacing-a-Digital-INPUT-push-button-to-LPC2148-ARM-7-Microcontroller-
+# EXNO: 03 Interfacing-a-Digital-INPUT-push-button-to-LPC2148-ARM-7-Microcontroller-
 
  
 ### Aim:
