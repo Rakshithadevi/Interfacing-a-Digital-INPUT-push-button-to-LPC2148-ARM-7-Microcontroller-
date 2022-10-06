@@ -137,7 +137,16 @@ int main(void)
 ``` 
 # Output screen shots :
 ## LED OFF:
+![image](https://user-images.githubusercontent.com/94165326/194338066-78ec3758-b656-4a9a-bf7e-114286ddf088.png)
+
+
 ## LED ON:
+![image](https://user-images.githubusercontent.com/94165326/194338174-9dca61a4-b293-4cf4-851e-fa5539a97054.png)
+
+
+##CIRCUIT DIAGRAM
+![image](https://user-images.githubusercontent.com/94165326/194338306-b9741e9b-8dcb-49fc-9ed5-12dbd06de44d.png)
+
 
 
 ### Result :
